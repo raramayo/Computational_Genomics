@@ -43,9 +43,11 @@
 | **[Lecture05](https://github.com/raramayo/Computational_Genomics/blob/main/05Lecture.pdf)**   | **Databases: DNA, Repeats and RNA**      |
 | **[Lecture06](https://github.com/raramayo/Computational_Genomics/blob/main/06Lecture.pdf)**   | **Databases: Proteins**                  |
 | **[Lecture07](https://github.com/raramayo/Computational_Genomics/blob/main/07Lecture.pdf)**   | **Databases: Proteins**                  |
+| **[Lecture07](https://github.com/raramayo/Computational_Genomics/blob/main/07Lecture.org)**   | **Test Pfam Sequence**                   |
 | **[Lecture08](https://github.com/raramayo/Computational_Genomics/blob/main/08Lecture.pdf)**   | **Databases: Proteins**                  |
 | **[Lecture09](https://github.com/raramayo/Computational_Genomics/blob/main/09Lecture.pdf)**   | **Introduction to Galaxy**               |
 | **[Lecture10A](https://github.com/raramayo/Computational_Genomics/blob/main/10ALecture.pdf)** | **Introduction to Regular Expressions**  |
+| **[Lecture10A](https://github.com/raramayo/Computational_Genomics/blob/main/10ALecture.org)** | **Test Mini-BED File**                   |
 | **[Lecture10B](https://github.com/raramayo/Computational_Genomics/blob/main/10BLecture.pdf)** | **Introduction to Text Manipulation(s)** |
 | **[Lecture11A](https://github.com/raramayo/Computational_Genomics/blob/main/11ALecture.pdf)** | **Data Retrieval I**                     |
 | **[Lecture11B](https://github.com/raramayo/Computational_Genomics/blob/main/11BLecture.pdf)** | **Computational Arithmetics I**          |
