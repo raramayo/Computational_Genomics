@@ -31,31 +31,31 @@
 
 ## **Course Schedule and Topics:**
 
-| **LECTURE**                                                                                      | **TOPIC(s)/EXAM(s)/OTHER**               |
-|--------------------------------------------------------------------------------------------------|------------------------------------------|
-| **Introduction**                                                                                 | **Introduction**                         |
-| **[Lecture01](https://github.com/raramayo/Computational_Genomics/blob/main/01Lecture01.pdf)**    | **History of Genomics**                  |
-| **[Lecture02](https://github.com/raramayo/Computational_Genomics/blob/main/02Lecture02.pdf)**    | **The Human Genome**                     |
-|                                                                                                  | **Other Major Genome Projects**          |
-| **[Lecture03](https://github.com/raramayo/Computational_Genomics/blob/main/03Lecture03.pdf)**    | **Gene Models and Tables**               |
-|                                                                                                  | **Genome Browsers - ENSEMBL**            |
-| **[Lecture04](https://github.com/raramayo/Computational_Genomics/blob/main/04Lecture04.pdf)**    | **Genome Annotation**                    |
-| **[Lecture05](https://github.com/raramayo/Computational_Genomics/blob/main/05Lecture05.pdf)**    | **Databases: DNA, Repeats and RNA**      |
-| **[Lecture06](https://github.com/raramayo/Computational_Genomics/blob/main/06Lecture06.pdf)**    | **Databases: Proteins**                  |
-| **[Lecture07](https://github.com/raramayo/Computational_Genomics/blob/main/07Lecture07.pdf)**    | **Databases: Proteins**                  |
-| **[Lecture08](https://github.com/raramayo/Computational_Genomics/blob/main/08Lecture08.pdf)**    | **Databases: Proteins**                  |
-| **[Lecture09](https://github.com/raramayo/Computational_Genomics/blob/main/09Lecture09.pdf)**    | **Introduction to Galaxy**               |
-| **[Lecture10A](https://github.com/raramayo/Computational_Genomics/blob/main/10ALecture10A.pdf)** | **Introduction to Regular Expressions**  |
-| **[Lecture10B](https://github.com/raramayo/Computational_Genomics/blob/main/10BLecture10B.pdf)** | **Introduction to Text Manipulation(s)** |
-| **[Lecture11A](https://github.com/raramayo/Computational_Genomics/blob/main/11ALecture11A.pdf)** | **Data Retrieval I**                     |
-| **[Lecture11B](https://github.com/raramayo/Computational_Genomics/blob/main/11BLecture11B.pdf)** | **Computational Arithmetics I**          |
-| **[Lecture12A](https://github.com/raramayo/Computational_Genomics/blob/main/12ALecture12A.pdf)** | **Computational Arithmetics II**         |
-| **[Lecture12B](https://github.com/raramayo/Computational_Genomics/blob/main/12BLecture12B.pdf)** | **Data Display**                         |
-| **[Lecture13](https://github.com/raramayo/Computational_Genomics/blob/main/13Lecture13.pdf)**    | **Comparative Genomics**                 |
-| **[Lecture14](https://github.com/raramayo/Computational_Genomics/blob/main/14Lecture14.pdf)**    | **Biological Sequence Analysis**         |
-| **[Lecture15](https://github.com/raramayo/Computational_Genomics/blob/main/15Lecture15.pdf)**    | **Data Retrieval II**                    |
-| **[Lecture16A](https://github.com/raramayo/Computational_Genomics/blob/main/16ALecture16A.pdf)** | **BLAST in Galaxy**                      |
-| **[Lecture16B](https://github.com/raramayo/Computational_Genomics/blob/main/16BLecture16B.pdf)** | **Advanced BLAST in Galaxy**             |
+| **LECTURE**                                                                                   | **TOPIC(s)/EXAM(s)/OTHER**               |
+|-----------------------------------------------------------------------------------------------|------------------------------------------|
+| **Introduction**                                                                              | **Introduction**                         |
+| **[Lecture01](https://github.com/raramayo/Computational_Genomics/blob/main/01Lecture.pdf)**   | **History of Genomics**                  |
+| **[Lecture02](https://github.com/raramayo/Computational_Genomics/blob/main/02Lecture.pdf)**   | **The Human Genome**                     |
+|                                                                                               | **Other Major Genome Projects**          |
+| **[Lecture03](https://github.com/raramayo/Computational_Genomics/blob/main/03Lecture.pdf)**   | **Gene Models and Tables**               |
+|                                                                                               | **Genome Browsers - ENSEMBL**            |
+| **[Lecture04](https://github.com/raramayo/Computational_Genomics/blob/main/04Lecture.pdf)**   | **Genome Annotation**                    |
+| **[Lecture05](https://github.com/raramayo/Computational_Genomics/blob/main/05Lecture.pdf)**   | **Databases: DNA, Repeats and RNA**      |
+| **[Lecture06](https://github.com/raramayo/Computational_Genomics/blob/main/06Lecture.pdf)**   | **Databases: Proteins**                  |
+| **[Lecture07](https://github.com/raramayo/Computational_Genomics/blob/main/07Lecture.pdf)**   | **Databases: Proteins**                  |
+| **[Lecture08](https://github.com/raramayo/Computational_Genomics/blob/main/08Lecture.pdf)**   | **Databases: Proteins**                  |
+| **[Lecture09](https://github.com/raramayo/Computational_Genomics/blob/main/09Lecture.pdf)**   | **Introduction to Galaxy**               |
+| **[Lecture10A](https://github.com/raramayo/Computational_Genomics/blob/main/10ALecture.pdf)** | **Introduction to Regular Expressions**  |
+| **[Lecture10B](https://github.com/raramayo/Computational_Genomics/blob/main/10BLecture.pdf)** | **Introduction to Text Manipulation(s)** |
+| **[Lecture11A](https://github.com/raramayo/Computational_Genomics/blob/main/11ALecture.pdf)** | **Data Retrieval I**                     |
+| **[Lecture11B](https://github.com/raramayo/Computational_Genomics/blob/main/11BLecture.pdf)** | **Computational Arithmetics I**          |
+| **[Lecture12A](https://github.com/raramayo/Computational_Genomics/blob/main/12ALecture.pdf)** | **Computational Arithmetics II**         |
+| **[Lecture12B](https://github.com/raramayo/Computational_Genomics/blob/main/12BLecture.pdf)** | **Data Display**                         |
+| **[Lecture13](https://github.com/raramayo/Computational_Genomics/blob/main/13Lecture.pdf)**   | **Comparative Genomics**                 |
+| **[Lecture14](https://github.com/raramayo/Computational_Genomics/blob/main/14Lecture.pdf)**   | **Biological Sequence Analysis**         |
+| **[Lecture15](https://github.com/raramayo/Computational_Genomics/blob/main/15Lecture.pdf)**   | **Data Retrieval II**                    |
+| **[Lecture16A](https://github.com/raramayo/Computational_Genomics/blob/main/16ALecture.pdf)** | **BLAST in Galaxy**                      |
+| **[Lecture16B](https://github.com/raramayo/Computational_Genomics/blob/main/16BLecture.pdf)** | **Advanced BLAST in Galaxy**             |
 
 ------------------------------------------------------------------------
 
