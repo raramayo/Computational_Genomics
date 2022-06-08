@@ -1,9 +1,12 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: Rodolfo
     given-names: Aramayo
     orcid: https://orcid.org/0000-0001-9702-6204
-title: raramayo/Computational_Genomics: v2022-1.0.0
+title: Computational_Genomics
 version: v2022-1.0.0
+doi: 10.5281/zenodo.6625428 
 date-released: 2022-06-08
+url: "https://github.com/raramayo/Computational_Genomics"
+
