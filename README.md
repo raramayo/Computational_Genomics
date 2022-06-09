@@ -1,24 +1,22 @@
-# _**COMPUTATIONAL_GENOMICS**_
+# _**Computational_Genomics**_
 
 ------------------------------------------------------------------------
 
 ## **Instructor:**
 
-|                  |                                                     |
-|------------------|-----------------------------------------------------|
-| Name:            | Dr. Rodolfo Aramayo, PhD                            |
-|                  |                                                     |
-| Email address:   | raramayo@tamu.edu                                   |
-| Office hours:    | By appointment                                      |
-| Office location: | Department of Biology                               |
-|                  | Room 412A, Biological Sciences Building West (BSBW) |
-|                  | Texas A&M University                                |
-|                  | College Station, TX 77843-3258                      |
-|                  |                                                     |
+|                |                                                     |
+|----------------|-----------------------------------------------------|
+| Name:          | Dr. Rodolfo Aramayo, PhD                            |
+| Email address: | raramayo@tamu.edu                                   |
+| Location:      | Department of Biology                               |
+|                | Room 412A, Biological Sciences Building West (BSBW) |
+|                | Texas A&M University                                |
+|                | College Station, TX 77843-3258                      |
+|                |                                                     |
 
 ------------------------------------------------------------------------
 
-## Motivation
+## Description:
 
 + This repository contains teaching materials used to teach _Computational Genomics_ in the _Spring 2022_.
 + Teaching of this section was heavily based on:
