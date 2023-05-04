@@ -29,26 +29,26 @@
 
 ## **Course Schedule and Topics:**
 
-| **LECTURE**                                                                                                                   | **TOPIC(s)/EXAM(s)/OTHER**                    |
-|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| **Introduction**                                                                                                              | **Introduction**                              |
-| **[Lecture 01](https://github.com/raramayo/Computational_Genomics/blob/main/01_History_Of_Bioinformatics.pdf)**               | **History of Bioinformatics**                 |
-| **[Lecture 02](https://github.com/raramayo/Computational_Genomics/blob/main/02_History_Of_Genomics.pdf)**                     | **History of Genomics**                       |
-| **[Lecture 03](https://github.com/raramayo/Computational_Genomics/blob/main/03_Cloning_Basics.pdf)**                          | **Cloning Basicss**                           |
-| **[Lecture 04](https://github.com/raramayo/Computational_Genomics/blob/main/04_The_Carbon_Clarke_Formula.pdf)**               | **The Carbon Clarke Formula**                 |
-| **[Lecture 05](https://github.com/raramayo/Computational_Genomics/blob/main/05_Introduction_To_Galaxy.pdf)**                  | **Introduction to Galaxy**                    |
-| **[Lecture 06](https://github.com/raramayo/Computational_Genomics/blob/main/06_Genome_Files_Fasta_Format.pdf)**               | **Genome Files: FASTA Format**                |
-| **[Lecture 07](https://github.com/raramayo/Computational_Genomics/blob/main/07_Uploading_Data_Into_Galaxy.pdf)**              | **Uploading Data into Galaxy**                |
-| **[Lecture 08](https://github.com/raramayo/Computational_Genomics/blob/main/08_Introduction_Text_Manipulations.org)**         | **Introduction to Text Manipulations**        |
-| **[Lecture 09](https://github.com/raramayo/Computational_Genomics/blob/main/09_Introduction_To_RegExps.pdf)**                 | **Introduction to Regular Expressions**       |
-| **[Lecture 10](https://github.com/raramayo/Computational_Genomics/blob/main/10_Introduction_To_Gene_Models_Gene_Tables.pdf)** | **Introduction to Gene Models and Tables**    |
-| **[Lecture 11](https://github.com/raramayo/Computational_Genomics/blob/main/11_Introduction_To_Genome_Annotation.pdf)**       | **Introduction to Genome Annotation**         |
-| **[Lecture 12](https://github.com/raramayo/Computational_Genomics/blob/main/12_Cyverse_User_Portal.pdf)**                     | **Cyverse User Portal**                       |
-| **[Lecture 13](https://github.com/raramayo/Computational_Genomics/blob/main/13_Introduction_To_Genome_Browsers_ENSEMBL.pdf)** | **Introduction to Genome Browsers (ENSEMBL)** |
-| **[Lecture 14](https://github.com/raramayo/Computational_Genomics/blob/main/14_Introduction_To_Comparative_Genomics.pdf)**    | **Introduction to Comparative Genomics**      |
-| **[Lecture 15](https://github.com/raramayo/Computational_Genomics/blob/main/15_Working_With_Genome_Files.pdf)**               | **Working with Genome Files**                 |
-| **[Lecture 16](https://github.com/raramayo/Computational_Genomics/blob/main/16_Introduction_To_Seq_Analysis.pdf)**            | **Introduction to Sequence Analysis**         |
-| **[Lecture 17](https://github.com/raramayo/Computational_Genomics/blob/main/17_Computational_Arithmetics.pdf)**               | **Computational Arithmetics**                 |
+| **TOPIC(S)**                                                                                                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Introduction**                                                                                                                                                      |
+| **[History of Bioinformatics](https://github.com/raramayo/Computational_Genomics/blob/main/01_History_Of_Bioinformatics.pdf)**                                        |
+| **[History of Genomics](https://github.com/raramayo/Computational_Genomics/blob/main/02_History_Of_Genomics.pdf)**                                                    |
+| **[Cloning Basics](https://github.com/raramayo/Computational_Genomics/blob/main/03_Cloning_Basics.pdf)**                                                              |
+| **[The Carbon Clarke Formula](https://github.com/raramayo/Computational_Genomics/blob/main/04_The_Carbon_Clarke_Formula.pdf)**                                        |
+| **[Introduction to Galaxy](https://github.com/raramayo/Computational_Genomics/blob/main/05_Introduction_To_Galaxy.pdf)**                                              |
+| **[Genome Files: FASTA Format](https://github.com/raramayo/Computational_Genomics/blob/main/06_Genome_Files_Fasta_Format.pdf)**                                       |
+| **[Uploading Data into Galaxy](https://github.com/raramayo/Computational_Genomics/blob/main/07_Uploading_Data_Into_Galaxy.pdf)**                                      |
+| **[Introduction to Text Manipulations](https://github.com/raramayo/Computational_Genomics/blob/main/08_Introduction_Text_Manipulations.org)**                         |
+| **[Introduction to Regular Expressions](https://github.com/raramayo/Computational_Genomics/blob/main/09_Introduction_To_RegExps.pdf)**                                |
+| **[Introduction to Gene Models and Tables: GFF3 Files](https://github.com/raramayo/Computational_Genomics/blob/main/10_Introduction_To_Gene_Models_Gene_Tables.pdf)** |
+| **[Introduction to Genome Annotation](https://github.com/raramayo/Computational_Genomics/blob/main/11_Introduction_To_Genome_Annotation.pdf)**                        |
+| **[Cyverse User Portal](https://github.com/raramayo/Computational_Genomics/blob/main/12_Cyverse_User_Portal.pdf)**                                                    |
+| **[Introduction to Genome Browsers (ENSEMBL)](https://github.com/raramayo/Computational_Genomics/blob/main/13_Introduction_To_Genome_Browsers_ENSEMBL.pdf)**          |
+| **[Introduction to Comparative Genomics](https://github.com/raramayo/Computational_Genomics/blob/main/14_Introduction_To_Comparative_Genomics.pdf)**                  |
+| **[Working with Genome Files](https://github.com/raramayo/Computational_Genomics/blob/main/15_Working_With_Genome_Files.pdf)**                                        |
+| **[Introduction to Sequence Analysis](https://github.com/raramayo/Computational_Genomics/blob/main/16_Introduction_To_Seq_Analysis.pdf)**                             |
+| **[Computational Arithmetics](https://github.com/raramayo/Computational_Genomics/blob/main/17_Computational_Arithmetics.pdf)**                                        |
 
 ------------------------------------------------------------------------
 
