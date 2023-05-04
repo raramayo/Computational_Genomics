@@ -27,11 +27,10 @@
 
 ------------------------------------------------------------------------
 
-## **Course Schedule and Topics:**
+## **Course Topics:**
 
-| **TOPIC(S)**                                                                                                                                                          |
+|                                                                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Introduction**                                                                                                                                                      |
 | **[History of Bioinformatics](https://github.com/raramayo/Computational_Genomics/blob/main/01_History_Of_Bioinformatics.pdf)**                                        |
 | **[History of Genomics](https://github.com/raramayo/Computational_Genomics/blob/main/02_History_Of_Genomics.pdf)**                                                    |
 | **[Cloning Basics](https://github.com/raramayo/Computational_Genomics/blob/main/03_Cloning_Basics.pdf)**                                                              |
