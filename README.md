@@ -29,6 +29,7 @@
 
 ## **Course Topics:**
 
+|                                                                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **[History of Bioinformatics](https://github.com/raramayo/Computational_Genomics/blob/main/01_History_Of_Bioinformatics.pdf)**                                        |
 | **[History of Genomics](https://github.com/raramayo/Computational_Genomics/blob/main/02_History_Of_Genomics.pdf)**                                                    |
