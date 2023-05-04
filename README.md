@@ -4,6 +4,7 @@
 
 ## **Instructor:**
 
+|                |                                                     |
 |----------------|-----------------------------------------------------|
 | Name:          | Dr. Rodolfo Aramayo, PhD                            |
 | Email address: | raramayo@tamu.edu                                   |
