@@ -20,10 +20,10 @@
 
 + This repository contains materials used to teach _Computational Genomics_ in the _Spring 2023_.
 + This course was heavily based on materials extracted from and/or adapted from:
- + [ENSEMBL](https://www.ensembl.org/index.html), and [ENSEMBL Tutorials and Examples](http://www.ensembl.org/info/website/tutorials/index.html).
- + [Genomes. 2nd edition](https://www.ncbi.nlm.nih.gov/books/NBK21134/)
- + [Current Topics in Genome Analysis](https://www.genome.gov/event-calendar/Current-Topics-in-Genome-Analysis)
- + [Galaxy Training Materials](https://training.galaxyproject.org/training-material/)
+  + [ENSEMBL](https://www.ensembl.org/index.html), and [ENSEMBL Tutorials and Examples](http://www.ensembl.org/info/website/tutorials/index.html).
+  + [Genomes. 2nd edition](https://www.ncbi.nlm.nih.gov/books/NBK21134/)
+  + [Current Topics in Genome Analysis](https://www.genome.gov/event-calendar/Current-Topics-in-Genome-Analysis)
+  + [Galaxy Training Materials](https://training.galaxyproject.org/training-material/)
 
 ------------------------------------------------------------------------
 
