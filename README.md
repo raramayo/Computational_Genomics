@@ -1,9 +1,4 @@
-
 **[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6625427.svg)](https://doi.org/10.5281/zenodo.6625427)**
-
-**[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7897471.svg)](https://doi.org/10.5281/zenodo.7897471)**
-
-**[![DOI](https://zenodo.org/badge/500589771.svg)](https://zenodo.org/doi/10.5281/zenodo.6625427)**
 # _**Computational_Genomics**_
 
 ------------------------------------------------------------------------
